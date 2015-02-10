@@ -1,6 +1,6 @@
 Border radius   with css 3
 
-#example1 {
+#mydiv {
 -moz-border-radius: 15px;
 border-radius: 15px;
 }
