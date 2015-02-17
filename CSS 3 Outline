@@ -1,0 +1,11 @@
+An outline is a line that is drawn around elements (outside the borders) to make the element "stand out".
+However, the outline property is different from the border property.
+The outline is not a part of an element's dimensions; the element's total width and height is not affected by the width of the outline.
+
+outline - outline-color, outline-style, outline-width, inherit
+
+outline-color -color_name ,hex_number, rgb_number, invert, inherit
+
+outline-style - none, dotted, dashed ,solid, double, groove, ridge ,inset ,outset, inherit
+
+outline-width - thin, medium, thick, length, inherit
